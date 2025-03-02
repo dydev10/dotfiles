@@ -60,6 +60,8 @@ zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 alias ls='ls --color'
 zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"
 
+# alias for colored tail logs
+alias tail='grc tail'
 
 # TODO
 # add fuzy search using fzf
