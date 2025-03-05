@@ -4,6 +4,10 @@ Collection of dot file configurations. Setup linux dev environment quickly using
 
 ## Usage
 
+#### Install `stow`
+1. `apt update`
+2. `apt install stow`
+
 #### Clone this repository in your home directory
 
 1. `cd ~`
